@@ -21,6 +21,8 @@ To get this project up and running;
 
 # http://localhost/kmtv/api/videos/singlevideo.php?id=value list a single video based on the value of id passed
 
-# http://localhost/kmtv/api/videos/addlikes.php?id=value inreases the likes of a video by +1
+# http://localhost/kmtv/api/videos/addlikes.php inreases the likes of a video by +1
 
 # http://localhost/kmtv/api/category/allcategory.php lists all categories
+
+# http://localhost/kmtv/api/videos/addviews.php increases views by +1
